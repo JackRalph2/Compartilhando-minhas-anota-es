@@ -1,0 +1,195 @@
+Trabalhando em equipes Ágeis
+
+_____________________________________________________
+-----------------------------------------------------
+
+Introdução à cultura ágil
+-----------------------------------------------------
+Agilidade x Rapidez
+
+Ser ágil é diferente de ser mais rápido (exemplo trem
+bala x Guepardo)
+Uma equipe ágil deve estar alinhada com o objetivo 
+final. Sendo rápida, porém, corrigindo o que for 
+nessecário, sempre focando o resultado final.
+
+-----------------------------------------------------
+Os valores do manifesto ágil
+
+Valores do manifesto ágil:
+*Manifesto ágil*
+- Indivíduos e interações - mais que processos e 
+ferramentas
+- Software em funcionamento - mais que documentação
+abrangente
+- Responder a mudanças - mais que seguir um plano
+- Colaboração com o cliente - mais que negociação de
+contratos
+
+-----------------------------------------------------
+Os 12 princípios do manisfesto ágil
+
+*Baixar nos materiais do módulo*
+
+São princípios do manifesto ágil (ver) que elencam os
+principais pontos a serem seguidos pela equipe ágil. 
+
+-----------------------------------------------------
+Principais Características de um time ágil
+
+- Alinhado com o cliente/Stakeholder
+- Auto-organizado e responsável
+- Multidisciplinar (conhecimento abrangente)
+- Entrega de valor continuamente
+- Está sempre aprendendo
+- Melhoria continua
+- Possui métricas e metas claras
+- Unido
+
+-----------------------------------------------------
+Agilidade na tecnologia
+____________________________________________________
+-----------------------------------------------------
+Gerenciamento de Projetos
+
+Projeto x Processo
+
+Processo
+* É recorrente e contínuo
+* É replicável
+* Geralmente é repetitivp e realizado regularmente
+
+Projeto
+* Um esforço temporário para atingir um objetivo
+* O resultado é exclusivo
+* Tem início e fim bem definidos
+
+-----------------------------------------------------
+Modelo ágil x Tradicional
+
+O método tradicional, mais conhecido como Waterfall
+ou cascata, é o modelo mais convencional e conhecido
+na tratativa para projetos no geral. Nele, o foco é
+no planejamento inicial do produto a ser entregue,
+desde a análise, projeto, implementação, teste até a
+entrega.
+A entrega do valor é somente no final.
+
+O método Ágil é um modelo mais novo de gerenciamento
+de projetos e tem como foco pequenas entregas de 
+valor no meio do projeto. A cada fase, se entrega 
+e itera o cliente/stakeholder do que está sendo feito
+para que haja um feedback e ajustes dos planos no meio
+do caminho.
+
+-----------------------------------------------------
+O que é gestão ágil?
+
+Uma forma de gestão que:
+- Seja flexível e se adapte às mudanças
+- Colaborativa e que gere transparência
+- Voltada ao aprendizado e melhorias contínuas
+- Entrega contínua de valor
+
+_____________________________________________________
+-----------------------------------------------------
+Métodos e ferramentas ágeis
+
+O que é scrum?
+- Framework scrum
+- Extreme Programming
+- Kanban
+- OKR
+(São algumas ferramentas utilizadas no método ágil)
+
+Pilares do scrum (TIA)
+- Transparência (toda equipe de qualquer ponto de vista
+deve enxergar toda a parte do projeto)
+- Inspeção (Inspecionar, principalmente nos "sprint review"
+onde a equipe verifica se as entregas estão indo do
+jeito esperado
+- Adaptação (Com transparência e Inspeção é possível 
+adaptar o projeto durante a jornada e corrigir 
+possíveis erros ou realizar melhorias)
+
+-----------------------------------------------------
+O framework scrum
+
+O scrum, ao contrário do que se pensa, é um framework
+e não uma metodologia, pois ele explica o que deve ser feito,
+mas não explica como deve ser feito. Isso fica a cargo
+da equipe scrum.
+
+No framework scrum existem as seguintes fases:
+** Product Backlog: É a lista com todas as funcionalidades
+que o sistema/produto deve ter. A pessoa responsável
+por planejar e observar se tudo está dentro do 
+esperado é o Product Owner.
+** Sprint Planning: É o planejamento da sprint. Sprint
+é um trecho ou alguns trechos do código ou partes do
+produto que passará pelo ciclo de criação scrum.
+** Sprint backlog: Lista com tudo o que deverá ser 
+feito. Decidido na sprint planning
+** Daily scrum: reunião diária de alinhamento para
+a equipe entender como está o andamento do projeto
+**Increment: É a fase de incrementação do que foi produzido
+ao total do projeto.
+** Sprint review: revisão de tudo o que aconteceu na 
+sprint
+** Sprint retrospective: Uma retrospectiva da sprint
+realizada na sprint review, onde toda equipe observa
+pontos de melhoria e o que deve ser mantido do que
+foi realizado.
+
+-----------------------------------------------------
+O que é XP (extreme programming)?
+
+* Ciclos (feito no ciclo Planeja, faz, testa, entrega)
+* "Cerimônias" (reuniões)
+* Testes
+* Programação em pares (pair programming)
+* Feedback (muitas vezes com o próprio cliente)
+* Aproximação com o cliente
+* Flexibilidade
+
+-----------------------------------------------------
+Kanban
+
+Criado em 1940 pela fabricante Toyota.
+
+Metodologia utiliza até os dias atuais pela Toyota.
+Basicamente são os pilares "To do" "Doing" e "Done"
+(A fazer, Fazendo e Feito).
+Pensando na filosofia de fabricação de veículos 0KM,
+a montadora primeiro planeja o ano de cada concessi-
+-onária (To do), fabrica durante o ano (Doing) e 
+entrega em cada loja que planejou (Done).
+
+-----------------------------------------------------
+O que é OKR (Objectives Key Results)?
+Objetivos e resultados chave
+
+Objetivos: descrições qualitativas que apontam a direção
+que deverá ser seguida pela empresa
+Deve ser
+- Claro
+- Inspirador
+- Desafiador
+- Alinhado com a missão do negócio
+
+Tenho um norte.....tenho a direção....qual é o caminho?
+
+KRs - Key Results (Resultados chave)
+São pequenas metas para o atingimento gradativo do
+resultado esperado.Normalmente se divide de 2 a 5 Krs
+Deve ser
+- Baseada em indicadores-chave de desempenho (linkada
+com o objetivo)
+- Quantitativas 
+- SMART (sigla em inglês) - Específicas, Mensuráveis,
+Atingíveis, Relevantes e Temporais
+
+-----------------------------------------------------
+Para saber mais
+
+**Ver no final dos slides com os links úteis 

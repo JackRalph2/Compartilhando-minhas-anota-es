@@ -1,0 +1,178 @@
+Introdução à programação e pensamento computacional
+
+---------------------------------------------------
+
+Pensamento computacional
+
+*Pode ser utilizado no dia a dia, não apenas na
+programação
+
+Classificações:
+- Indução - A partir de uma observação, criar leis
+e raciocínios;(Inferência sintética)
+- Dedução - Inverso da indução. A partor de leis e 
+teorias se deduz explicações; (Inferencia analítica)
+- Abdução - "A grama está molhada, logo deve ter
+chovido". A partir de uma observação, se deduz a 
+razão. Muito utilizado por detetives. (Inferência 
+sintética).
+
+Pilares: Decomposição**
+Baseia-se em dividir um problema complexo em
+problemas mais fáceis de gerenciar.
+Pensar em maneiras distuntas para decompor o mesmo
+problema.
+O ponto positivo é fazer alterações pontuais no 
+cóodigo quando necessário, e não em todo o processo
+
+Pilares: Padrões
+Existe uma referência para variações.
+Ex: Uma cadeira pode ser feita de diversos materiais
+e ter diversos desenhos, mas, ainda assim, é uma
+cadeira.
+Com a determinação de padrões, é possível generalizar
+soluções para diversos problemas diferentes.
+O ser humano tem o reconhecimento do pdrão como algo
+nativo, já a máquina precisa associar com algo que
+já foi definido (conceito de variáveis).
+Muito utilizado na Inteligência Artificial.
+
+Pilares: Abstração
+"Abstrair é observar um ou mais elementos, avaliando
+características e propriedades em separado."
+"Abstração é o processo intelectual de isolamento
+de um objeto da realidade para o mundo das ideias"
+"Generalizar é tornar algo geral".
+
+Pilares: Algoritmos
+Um computador necessita de instruções detalhadas
+para fazer o que necessitamos. Essas instruções
+executadas passo a passo para a conclusão de uma
+tarefa, é o que se define como algoritmo.
+
+_____________________________________________________
+-----------------------------------------------------
+
+
+Fundamentos de Algoritmos
+
+O papel do computador é receber informações,
+que podem ser dados ou instruções.
+
+*Dados*
+Tipologia de variaveis
+Tipos de dados: Numéricos, caracteres e lógicos
+Numéricos: são números, reais e inteiros.
+Caracteres: São palavras definidas em "Strings"
+Lógico: booleano (verdadeiro e falso)
+
+Variáveis são tipos de estruturas mutáveis. Pode receber
+qualquer tipo acima mencionado.
+
+*Instruções primitivas*
+São as ações que teremos sobre nossos dados.
+
+*Estruturas condicionais e operadores*
+(If/Else)
+Ela condiciona as respostas do que foi programado. Ou
+seja, é a utilização do if/else.
+
+*Estruturas de repetição*
+Quando preciso que um pedaço do meu código seja
+repetido algumas vezes, a partir de certos parâmetros.
+Deve ter comando de parada, senão entrará em looping
+infinito.
+"Enquanto" - Enquanto tal condição, faça. Exemplo do
+cortador de grama (enquanto a grama estiver alta, corte).
+"Repita" - Repita e faça o teste lógico ao final, caso
+falso, repita. Exemplo da busca de artigo em uma
+revista (procuro um artigo específico. repita a virada
+de página até encontrar)
+"para....de....até" - O programador define quantas
+vezes será repetido.
+
+*Vetores e matrizes*
+"Um vetor é caracterizado por uma variável
+dimensionada com tamanho pré-fixado" (Cria-se uma
+variável para resumir várias variáveis. Ex: notas de
+um aluno pode ser criado o vetor "notas_aluno1", ao
+invés de criar "nota 1.1" "nota 1.2", etc...) 
+
+"Matriz é uma tabela organizada em linhas e colunas
+no formato MxN, onde m representa o número de linhas
+na horiontal e n o número de linhas na vertical" (Uma
+junção de vários vetores em um tipo de tabela)
+
+Matriz é uma coleção de vetores. Um conjunto.
+
+Esse tipo de código auxilia na redução da quantidade
+de linhas.
+
+*Funções*
+Ao invés de montar vários módulos no código com 
+várias variáveis diferentes, cria-se uma função
+com as instruções necessárias e, quando necessário,
+solicita-se essa função novamente, trocando apenas
+a variável de preferência. (Ex: Ao invés de criar 
+um módulo para criar a média de cada aluno, cria-se 
+uma função chamada "Média_escolar" com todas as 
+instruções e, para cada aluno, basta chamar a função,
+trocando apenas a variável "aluno"
+
+*Instruções de entrada/saída*
+Por meio de um dispositivo real e externo (hardware),
+se cria uma instrução de entrada, que pode ser 
+impressa em um dispositivo (tela, etc...).
+
+_____________________________________________________
+-----------------------------------------------------
+
+Linguagens de programação
+
+Introdução à linguagens de programação
+
+
+*Como um computador entender um programa?*
+O código é escrito na linguagem de alto nível (em 
+uma linguagem específica). Quando executado, entra um
+prograam que intrepreta e transforma em uma linguagem
+de baixo nível (binário) para que o computador entenda.
+Ex: Assembly
+
+
+*Características de um programa*
+O desenvolvimento de programas tem boas práticas cujas
+diretrizes são: Legibilidade (ser legível), 
+Redigibilidade (ser bem escrito), Confiabilidade 
+(ser confiável) e ter baixo custo.
+Além disso, deve-se observar que o programa de ter 
+ser constantemente atualizado (novos frameworks, por
+exemplo); deve ter uso de IA (vide Phyton); comunidade
+ativa; etc...
+
+
+*Análises de código*
+Análise léxica - Analisar caractere do programa fonte
+e agrupar em tokens.
+
+Análise sintática - A sintaxe de um programa é a forma
+que ele define, através de palavras reservadas,
+indexação, etc... a corretude do programa.
+Cada linguagem vai ter uma sintaxe associada
+
+Análise semântica - é a lógica de cada programa
+ex: igualigual é diferente de apenas igual.
+Para encontrar erro na semântoica, deve-se conhecer
+o programa e sua lógica.
+
+
+*Paradigmas de programação*
+"Forma de resolução de problemas com diretrizes e limitações 
+específicas de cada paradigma utilizando linguagem
+de programação"
+
+__________________________________________________________
+----------------------------------------------------------
+
+Portugol
+**Ver Portugol WebStudio**
